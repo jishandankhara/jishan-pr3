@@ -2,7 +2,7 @@
 /*Enter a number:234
 -=-=-=-=-=-=-=-=-
        6
--=-=-=-=-=-=-=-=-
+-=-=-=-=-=-=-=-=-*/
 #include<stdio.h>
 #include<conio.h>
 void main(){
