@@ -1,4 +1,8 @@
 //PR3 Q3 write a program to find the sum of a frist and the last digit of a number.
+/*Enter a number:234
+-=-=-=-=-=-=-=-=-
+       6
+-=-=-=-=-=-=-=-=-
 #include<stdio.h>
 #include<conio.h>
 void main(){
@@ -11,6 +15,7 @@ while(a>10)
 {b=a/10;
 a=b;}
 d=b+c;
-printf("%d",d);
-
+printf("-=-=-=--=-=-=-=-=-=-");
+printf("        %d",d);
+printf("-=-=-=--=-=-=-=-=-=-");
 getch();}
